@@ -2,7 +2,7 @@
 
 <a href="https://family-album.fly.com/">
  <p align="center">
-  <img src="https://firebasestorage.googleapis.com/v0/b/react-portfolio-dashboar-f6b3a.appspot.com/o/portfolio%2Ffamily-album.png?w="350" alt="Campground"
+  <img src="https://firebasestorage.googleapis.com/v0/b/react-portfolio-dashboar-f6b3a.appspot.com/o/portfolio%2Ffamily-album.png?alt=media&token=ffb3d0bf-e658-4da7-aba3-c49fa07499c9&_gl=1*1jqqzcz*_ga*MzA4NzMyNDQ0LjE2OTY4MDE5OTA.*_ga_CW55HF8NVT*MTY5NjgwMTk4OS4xLjEuMTY5NjgwMjA4OC4yMS4wLjA." alt="Family Album"
  </p>
 </a>
 
