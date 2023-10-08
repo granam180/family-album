@@ -1,15 +1,15 @@
 #  Family Album 📸
 
-<a href="https://my-campground.herokuapp.com/">
+<a href="https://family-album.fly.com/">
  <p align="center">
-  <img src="https://i.imgur.com/F6IiDsR.png?w="350" alt="Campground"
+  <img src="https://firebasestorage.googleapis.com/v0/b/react-portfolio-dashboar-f6b3a.appspot.com/o/portfolio%2Ffamily-album.png?w="350" alt="Campground"
  </p>
 </a>
 
-Family Album is a website where users can create and review image collections. In order to review or create an album of images, you must have an account. This project was part of Colt Steele's web dev course on Udemy to build a Fullstack Campgrounds app.  
+Family Album is a website where users can create and review image collections from trips they've taken, along with geotagging by location to be identified on a map. In order to review or create an album of images, you must have an account. This project was part of Colt Steele's web dev course on Udemy to build a Fullstack Campgrounds app.  
 
 ## Tech
-This project was created using Node.js, Express, MongoDB, and Bootstrap. Passport.js was used to handle authentication.  
+This project was created using Node.js, Express, MongoDB, and Bootstrap. Passport.js was used to handle authentication. Fly.to service for backend deployment.  
 
 ## Features
 * Users can create, edit, and remove campgrounds
