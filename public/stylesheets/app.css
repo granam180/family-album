@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'La Belle Aurore';
+    src: url('../fonts/LaBelleAurore.woff2') format('woff2'),
+      url('../fonts/LaBelleAurore.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+  }
+
+body {
+/* background: #03254E; */
+  }
+#cluster-map {
+    width: 100%;
+    height: 500px;
+}
+
+#map {
+    width: 100%;
+    height: 300px;
+}
+
+a.navbar-brand {
+    font-family: 'La Belle Aurore', cursive;
+}
+
+.navbar-brand {
+    font-family: 'La Belle Aurore', cursive;
+}
