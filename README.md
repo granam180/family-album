@@ -7,7 +7,7 @@
 <a href="https://family-album.fly.dev/" target="_blank">Family Album</a> is a website where users can create and review image collections from trips they've taken, along with geotagging by location to be identified on a map. In order to review or create an album of images, you must have an account. This project was part of Colt Steele's web dev course on Udemy to build a Fullstack Campgrounds app.  
 
 ## Tech
-This project was created using Node.js, Express, MongoDB, and Bootstrap. Passport.js was used to handle authentication. Fly.to service for backend deployment.  
+This project was created using Node.js, Express, MongoDB, and Bootstrap. Passport.js was used to handle authentication. Fly.io services for backend deployment.  
 
 ## Features
 * Users can create, edit, and remove campgrounds
@@ -37,6 +37,7 @@ npm install
 
 - [Node.js](https://nodejs.org) - Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 - [express](https://expressjs.com//) - Fast, unopinionated, minimalist web framework for Node.js
+- [Fly.io](https://fly.io/) - Fly is a platform for running full stack apps and databases close to your users
 - [MongoDB](https://www.mongodb.com/) - The database for
   modern applications
 - [Mongoose](https://mongoosejs.com/) - Elegant MongoDB object modeling for Node.js
