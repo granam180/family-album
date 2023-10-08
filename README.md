@@ -1,12 +1,10 @@
 #  Family Album 📸
 
-<a href="https://family-album.fly.com/">
  <p align="center">
   <img src="https://firebasestorage.googleapis.com/v0/b/react-portfolio-dashboar-f6b3a.appspot.com/o/portfolio%2Ffamily-album.png?alt=media&token=ffb3d0bf-e658-4da7-aba3-c49fa07499c9&_gl=1*1jqqzcz*_ga*MzA4NzMyNDQ0LjE2OTY4MDE5OTA.*_ga_CW55HF8NVT*MTY5NjgwMTk4OS4xLjEuMTY5NjgwMjA4OC4yMS4wLjA." alt="Family Album"
  </p>
-</a>
 
-Family Album is a website where users can create and review image collections from trips they've taken, along with geotagging by location to be identified on a map. In order to review or create an album of images, you must have an account. This project was part of Colt Steele's web dev course on Udemy to build a Fullstack Campgrounds app.  
+<a href="https://family-album.fly.com/">Family Album</a> is a website where users can create and review image collections from trips they've taken, along with geotagging by location to be identified on a map. In order to review or create an album of images, you must have an account. This project was part of Colt Steele's web dev course on Udemy to build a Fullstack Campgrounds app.  
 
 ## Tech
 This project was created using Node.js, Express, MongoDB, and Bootstrap. Passport.js was used to handle authentication. Fly.to service for backend deployment.  
