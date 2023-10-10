@@ -7,11 +7,11 @@
 <a href="https://family-album.fly.dev/" target="_blank">Family Album</a> is a *fullstack* website where users can create and review image collections from trips they've taken from either their phone or home computer, along with geotagging by location to be identified on a map. In order to review or create an album of images, you must have an account. This project was part of Colt Steele's web dev course on Udemy to build a Fullstack Campgrounds app.  
 
 ## Features
-* Users can create, edit, and remove campgrounds
-* Users can review campgrounds once, and edit or remove their review
-* User profiles include more information on the user (full name, email, phone, join date), their campgrounds, and the option to edit their profile or delete their account
-* Search campground by name or location
-* Sort campgrounds by highest rating, most reviewed, lowest price, or highest price
+* Users can create, edit, and remove albums
+* Users can review albums, and edit or remove their review
+* User profiles include more information on the user (full name, email, phone, join date), their albums, and the option to edit their profile or delete their account
+// Search image collections by name or location
+// Sort albums by highest rating, most reviewed, lowest price, or highest price
 
 ## Run it locally
 1. Install [mongodb](https://www.mongodb.com/)
