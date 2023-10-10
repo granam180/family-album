@@ -9,9 +9,11 @@
 ## Features
 * Users can create, edit, and remove albums
 * Users can review albums, and edit or remove their review
+
+## TODO
 * User profiles include more information on the user (full name, email, phone, join date), their albums, and the option to edit their profile or delete their account
-// Search image collections by name or location
-// Sort albums by highest rating, most reviewed, lowest price, or highest price
+* Search image collections by name or location
+* Sort albums by highest rating, most reviewed, lowest price, or highest price
 
 ## Run it locally
 1. Install [mongodb](https://www.mongodb.com/)
