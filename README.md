@@ -6,9 +6,6 @@
 
 <a href="https://family-album.fly.dev/" target="_blank">Family Album</a> is a *fullstack* website where users can create and review image collections from trips they've taken from either their phone or home computer, along with geotagging by location to be identified on a map. In order to review or create an album of images, you must have an account. This project was part of Colt Steele's web dev course on Udemy to build a Fullstack Campgrounds app.  
 
-## Tech
-This project was created using Node.js, Express, MongoDB, and Bootstrap. Passport.js was used to handle authentication. Fly.io services for backend deployment.  
-
 ## Features
 * Users can create, edit, and remove campgrounds
 * Users can review campgrounds once, and edit or remove their review
