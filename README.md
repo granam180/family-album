@@ -10,7 +10,7 @@
 * Users can create, edit, and remove albums
 * Users can review albums, and edit or remove their review
 
-## TODO
+## Coming Soon 🤞
 * User profiles include more information on the user (full name, email, phone, join date), their albums, and the option to edit their profile or delete their account
 * Search image collections by name or location
 * Sort albums by highest rating, most reviewed, lowest price, or highest price
